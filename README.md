@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=#0000FF&text=YourName)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googledomains&logoColor=white)](https://singitaherbert.github.io/Singita-Ngobeni-Portfolio/)
